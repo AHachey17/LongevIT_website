@@ -582,6 +582,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
+  display: none;
   padding-top: 20px;
 }
 
